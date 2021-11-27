@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabWork 2.5</string>
+    <string name="text_fragment">Текст внутри фрагмента</string>
+    <string name="add_text">Add Text</string>
+    <string name="add_image">Add Image</string>
+    <string name="clear">Clear</string>
+</resources>
